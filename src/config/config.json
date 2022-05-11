@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "nodejs",
+    "password": "Thanhlam123",
+    "database": "nodejs",
+    "host": "203.205.33.59",
+    "port": "33066",
+    "dialect": "mysql",
+    "logging": false,
+    "raw": true
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
